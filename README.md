@@ -1,24 +1,12 @@
-# README
+# Continuous Integration / Continuous Delivery
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This standard rails 5 `rails new..` app will be used to apply CI/CD best practices, starting with Heroku.
 
-Things you may want to cover:
+## Heroku
+### Pipelines, GitHub Deploys, and Review Apps
+* [Heroku Pipeline](https://devcenter.heroku.com/articles/pipelines)
+* [GitHub Integration](https://devcenter.heroku.com/articles/github-integration)
+* [Review Apps](https://devcenter.heroku.com/articles/github-integration-review-apps)
+* [Heroku CI](https://devcenter.heroku.com/articles/heroku-ci)
 
-* Ruby version
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
